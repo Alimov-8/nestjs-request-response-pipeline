@@ -30,10 +30,10 @@ What's the difference between Interceptor vs Middleware vs Filter in Nest.js [(R
 
 - Pipes ✅
 
-<img src="pipe.png" alt="NestJS">
+<img src="pipe.PNG" alt="NestJS">
 
 - Filters ✅
 
-<img src="filter.png" alt="NestJS">
+<img src="filter.PNG" alt="NestJS">
 
 
